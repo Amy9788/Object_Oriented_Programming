@@ -1,1 +1,1 @@
-Practice problem from LeetCode
+Practice problems from LeetCode
